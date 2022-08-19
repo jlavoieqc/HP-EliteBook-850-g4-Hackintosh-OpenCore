@@ -25,7 +25,7 @@ Installation
 - Boot opencore
 - Select Your Drive That contain mac recovery that you can download with macrecovery (https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos) (WARNING:If you dont see your drive, press space)
 - Go to disk utilities and format your partition that you want macOS in afps
-- Go to reinstall (Your macOS version)
+- Go to reinstall or install if its confusing (Your macOS version)
 - Agree terms
 - Select your drive and let it install
 - After it will reboot and you will have to boot your usb drive and you might see install macOS (Dont forget to press space bar if you dont see it)
