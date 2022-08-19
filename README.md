@@ -29,7 +29,8 @@ Installation
 - Agree terms
 - Select your drive and let it install
 - After it will reboot and you will have to boot your usb drive and you might see install macOS (Dont forget to press space bar if you dont see it)
-
+- Wait and there will be time estimated and after it will reboot and you will see in opencore bootloader your partition that you installed macOS
+- BOOT IT
 # BIOS Settings
 Disable
 -
@@ -53,3 +54,6 @@ Enable
 - EHCI/XHCI Hand-off
 - DVMT Pre-Allocated(iGPU Memory): 64MB or higher
 - SATA Mode: AHCI
+
+# Error that might occur
+- One about NVRAM when you boot macos recovery (Its because the recovery is trying to reset NVRAM but Virtual NVRAM is not set up)
