@@ -12,7 +12,7 @@ Working
 
 Not Working
 -
-- Nothing that I know, I just installed it and wanted to share it
+- The little joystick mouse is not working but you have a fully working trackpad
 
 Not Tested
 -
