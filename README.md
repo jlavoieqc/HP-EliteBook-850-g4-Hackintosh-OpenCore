@@ -5,3 +5,8 @@
 - Wifi
 - Bluetooth
 - Audio
+- Trackpad
+----------Not Working----------
+
+----------Not Tested----------
+- Hdmi
