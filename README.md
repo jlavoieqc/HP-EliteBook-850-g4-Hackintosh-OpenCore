@@ -7,6 +7,8 @@ Working
 - Bluetooth
 - Audio
 - Trackpad
+- Webcam
+- Microphone
 
 Not Working
 -
@@ -20,6 +22,9 @@ Installation
 -
 - Generate smbios with GenSMBIOS
 - I used MacBookPro14,1
+- Boot opencore
+- Select Your Drive That contain mac recovery that you can download with macrecovery (https://dortania.github.io/OpenCore-Install-Guide/installer-guide/winblows-install.html#downloading-macos)
+- 
 
 # BIOS Settings
 Disable
@@ -34,6 +39,7 @@ Disable
 - Intel SGX
 - Intel Platform Trust
 - CFG Lock
+
 Enable
 -
 - VT-x
